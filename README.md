@@ -202,20 +202,6 @@ All of these are presets — the driver can change any number to match their act
 
 ---
 
-## Why No App Has Done This Before
-
-There are gas price apps. There are budget apps. There are fuel efficiency calculators for car owners.
-
-But none of them combine:
-- A **driver's income** (trips × fare)
-- With **real fuel cost** (distance ÷ efficiency × pump price)
-- Against a **historical baseline** (2021 pre-crisis prices)
-- Into a **survival wage context** (Central Luzon minimum wage)
-
-GasPera connects all four of those in one place, for the specific context of Filipino transport workers — not car owners, not engineers, not accountants. Mang Pedro.
-
----
-
 ## Technical Details
 
 | Item | Detail |
